@@ -1,0 +1,16 @@
+div#input-panel{
+  background-color: #EEE;
+  position: absolute;
+  top: 30px;
+  padding: 5px;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+}
+
+.popover-title{
+  display: none;
+}
+
+li{
+  list-style: none;
+}
